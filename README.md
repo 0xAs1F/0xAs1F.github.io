@@ -1,57 +1,40 @@
-<header>
+# Pentester Portfolio and Blog
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to my pentesting portfolio! This repository showcases my projects, tools, and insights into penetration testing, along with a blog to share knowledge about cybersecurity.
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-## Finish
-
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Blog](#blog)
+- [Setup Instructions](#setup-instructions)
+- [Contact](#contact)
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+## About Me
+I’m a professional penetration tester with a passion for cybersecurity. I specialize in identifying vulnerabilities in systems and applications to help organizations stay secure.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Projects
+Here are some of the highlights of my work:
+1. **Web Application Penetration Testing**  
+   Example: Identifying SQL Injection and XSS vulnerabilities in e-commerce platforms.
+   
+2. **Network Security Assessment**  
+   Example: Uncovering misconfigurations and patching security flaws in corporate networks.
 
-</footer>
+3. **Custom Tools Development**  
+   Example: Built automation scripts for reconnaissance and vulnerability scanning.
+
+
+## Blog
+My blog shares knowledge and experiences about penetration testing, cybersecurity trends, and tools.  
+Read it directly at **[My Blog](https://0xas1f.github.io/)**.
+
+---
+
+## Setup Instructions
+To clone this repository and view the blog locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/repo-name.git
