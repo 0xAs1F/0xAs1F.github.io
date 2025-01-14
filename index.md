@@ -1,5 +1,3 @@
-# Welcome to My Pentesting Portfolio
-
 Hello! I'm Asif Khan, a passionate and skilled **penetration tester** dedicated to helping organizations enhance their security posture.
 
 ## About Me
